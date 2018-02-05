@@ -1,5 +1,6 @@
 # Readme
 Text repository With Readme file
+
 Hello whoever is reading this! My name is Jeff. I am a grade 12 student. 
 During my time in our school, I have decent knowledge and experience with two coding languages which include Pascal and Turing, and very limited knowledge on Python and C++ as I have done projects with Arduinos and Raspberry Pis in our Computer Engineering Class.
 Some experiences with code include creating a database, a game, algorithms (sort, search, etc).
